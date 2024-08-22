@@ -1,0 +1,16 @@
+.vs
+.vs/** 
+bin 
+bin/** 
+obj 
+obj/** 
+TLSKeyDumper/.vs
+TLSKeyDumper/bin
+TLSKeyDumper/bin/** 
+TLSKeyDumper/obj
+TLSKeyDumper/obj/** 
+SimpleClientTester/.vs
+SimpleClientTester/bin
+SimpleClientTester/bin/** 
+SimpleClientTester/obj
+SimpleClientTester/obj/** 
